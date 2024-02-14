@@ -1,5 +1,6 @@
 ## Udagram Pipeline
 
+[](docs/Ci_pipeline.jpg)
 
 ### Continuous Integration
 #### GitHub
