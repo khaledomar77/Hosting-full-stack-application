@@ -1,6 +1,6 @@
 ## Udagram Pipeline
 
-[](docs/Ci_pipeline.jpg)
+CI Pipeline Illustration will be found [here](https://github.com/khaledomar77/Hosting-full-stack-application/blob/main/docs/Ci_pipeline.jpg)
 
 ### Continuous Integration
 #### GitHub
