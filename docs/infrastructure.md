@@ -1,6 +1,6 @@
 ## Udagram Infrastructure
 
-[]()
+Main project arhitecture will be found [here](https://github.com/khaledomar77/Hosting-full-stack-application/blob/main/docs/Main_architecture.jpg)
 
 ## AWS
 ### RDS Postgres
